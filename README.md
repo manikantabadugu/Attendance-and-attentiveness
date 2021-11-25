@@ -8,3 +8,7 @@ I mean we can take attendance based on Login data, but anyone can log in and eas
 blinks are not recorded(Scientifically an average person blinks a minimum of 12 times per minute). I gave the threshold number as 8. So if this criterion is not met. It makes a 
 beep sound for a second and alerts the host(we can arrange to send a personal alert to the host when this code is equipped for the video call Applications)
 6. So if the person is constantly looking sideways or looking down at the phone. His blinks won't be counted which in turn leads to an alert sound.
+
+
+https://user-images.githubusercontent.com/84836313/143479462-083b07c9-2f85-446f-b67e-e5ddbbc86df0.mp4
+
